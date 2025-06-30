@@ -1,0 +1,8 @@
+Hora	Lunes	Martes	Miercoles	Jueves	Viernes	
+7h00	Base de Datos	Gestion de Proyectos	Gestion de Proyectos	POO		
+8h00						
+9h00	Base de Datos					
+10h00			Gestion de Proyectos	POO	Diseño Interfaces	
+11h00	POO	Analisis de Datos	Base de Datos		Diseño Interfaces	
+12h00	POO					
+13h00	POO	Analisis de Datos	Base de Datos		Diseño Interfaces	

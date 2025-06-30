@@ -1,0 +1,8 @@
+Empleado{nombre='Pedro', cargo='Gerente', sueldo=2000.0}
+nombre,cargo,sueldo
+Empleado{nombre='Jhonatan', cargo='Gerente', sueldo=2000.0}
+Empleado{nombre='Maria', cargo='Administrador', sueldo=1000.0}
+Empleado{nombre='Luis', cargo='Gerente', sueldo=2000.0}
+Empleado{nombre='Marco', cargo='Presidente', sueldo=5000.0}
+Empleado{nombre='Angie', cargo='Administrador', sueldo=1000.0}
+Empleado{nombre='Pedro', cargo='Gerente', sueldo=2000.0}
